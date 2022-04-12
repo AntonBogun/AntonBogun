@@ -2,7 +2,7 @@ Hello, I'm Anton
 
 I'm BSc in University of Helsinki
 
-Currently working on getting a degree and a couple projects in background. Also doing my best to note any unique ideas I come up with for the future
+Currently working on getting a degree and a couple of projects in the background. Also doing my best to note any unique ideas I come up with for the future
 
 Know Python, C#, Java and C++
 

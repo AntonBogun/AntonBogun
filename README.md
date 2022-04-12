@@ -4,7 +4,7 @@ I'm BSc in University of Helsinki
 
 Currently working on getting a degree and a couple projects in background. Also doing my best to note any unique ideas I come up with for the future
 
-Know Python and C#
+Know Python, C#, Java and C++
 
 You can reach me at `bogunanton@gmail.com`
 

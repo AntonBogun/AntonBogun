@@ -4,7 +4,7 @@ I'm BSc student in University of Helsinki
 
 Currently working on getting a degree and a couple of projects in the background. Also doing my best to note any unique ideas I come up with for the future
 
-Know Python, C#, Java, C++, Haskell, Lobster and JavaScript
+Know Python, Java, C++, Haskell, Lobster and JavaScript
 
 You can reach me at `bogunanton@gmail.com`
 

@@ -6,6 +6,8 @@ Currently working on getting a degree and a couple of projects in the background
 
 Know Python, JavaScript, Java, C++, Lobster, R, SQL, Haskell and C#
 
+Proud user of [TreeSheets](https://github.com/aardappel/treesheets)
+
 You can reach me at `bogunanton@gmail.com`
 
 <!---
